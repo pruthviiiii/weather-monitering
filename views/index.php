@@ -12,7 +12,7 @@
     <script>
         setTimeout(function(){
             window.location.reload(1);
-        }, 86400000); // 30 seconds in milliseconds (30000ms = 30 seconds)
+        }, 300000); 
     </script>
     <script>
         // Function to call the PHP script
